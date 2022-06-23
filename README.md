@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 
 Hi, i'm an Vietnamese guys has passion with developing high-end product...
 
-- I love code :computer:, edit video :technologist:, create content :writing_hand:, sport :soccer:, bitcoin :chart_with_upwards_trend:.
+- I love code :computer:, edit video :technologist:, create content :writing_hand:, sport :soccer:, bitcoin :coin:.
 - I enjoy learning new stuff and making notes 📄.
 - I like to travel and but don't have money to travel 🛫.
 

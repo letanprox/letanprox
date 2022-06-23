@@ -14,11 +14,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Hi, i'm an Vietnamese guys has passion with developing high-end product...
+Hi, i'm an Vietnamese guys has passion with developing my own quality product...
 
 - I love code :computer:, edit video :technologist:, create content :writing_hand:, sport :soccer:, bitcoin :coin:.
 - I enjoy learning new stuff and making notes 📄.
 - I like to travel and but don't have money to travel 🛫.
+- I'm currently building a forum for anime fans. Hope it will be finished soon!!!
 
 📧 Contact me
 https://twitter.com/letanprox102
